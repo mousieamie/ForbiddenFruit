@@ -1,0 +1,9 @@
+eclipse/*
+run/*
+.DS_STORE
+.gradle/*
+.idea/*
+
+*.class
+*.jar
+
